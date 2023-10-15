@@ -1,0 +1,20 @@
+.table-row {
+  margin: 0%;
+  padding: 2%;
+  display: flex;
+  justify-content: space-between;
+}
+.transaction-text {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+.delete-img {
+  width: 50%;
+}
+.delete-button {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
